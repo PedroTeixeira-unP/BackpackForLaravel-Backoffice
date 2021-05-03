@@ -9,7 +9,7 @@ Foi utilizado novas tecnologias:
 
 - [Laravel](https://laravel.com).
 - [Backpack Laravel Framework](https://backpackforlaravel.com/).
-- [Bootstrap](https://getbootstrap.com/)..
+- [Bootstrap](https://getbootstrap.com/).
 
 
 
