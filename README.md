@@ -1,29 +1,19 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.narcos.pt/assets/imagens/logo.png" width="400"></a></p>
-
-
-## Narcos Website
-
-Baseado no conteudo já existente do antigo site.
-
-Foi utilizado novas tecnologias:
+## Tecnologies:
 
 - [Laravel](https://laravel.com).
 - [Backpack Laravel Framework](https://backpackforlaravel.com/).
 - [Bootstrap](https://getbootstrap.com/).
+- [MySQL](https://www.mysql.com/).
+
+```
+Please be aware this is an old version of php and backpack for laravel
+```
 
 
+## Project
 
-## Base de Dados
+This backoffice, a testament to the effective use of the Laravel framework, was developed for a roleplaying server. It significantly enhanced the website's functionality and logic, rendering it more dynamic and user-friendly. 
 
-O conteudo da base de dados nao é incluido aquando o clone deste repositório, assim será necessario importar as bases de dados e inserir novamente o conteudo.
+However, it's important to note that the server and this site are no longer online. 
 
-## Feito por: UNP
-
-Este projeto partiu de uma iniciativa de melhorar a comunidade NARCOSPT dando-lhes uma nova cara na sua secção web.
-
-Para contacto:
--   [Discord](Unp#4140)
-
-## Licença
-
-O website NarcosPT possui uma licença [ssl].
+Additionally, this project serves as a demonstration of the capabilities of Backpack, which requires a paid key for full functionality.
